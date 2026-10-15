@@ -1,0 +1,19 @@
+/* SAGE — DARK MODE */
+.theme-dark {
+    --h1-color: #BECBC1;
+    --h2-color: #AFBFB2;
+    --h3-color: #A0B4A5;
+    --h4-color: #91A896;
+    --h5-color: #829D88;
+    --h6-color: #748F7B;
+}
+
+/* SAGE — LIGHT MODE */
+.theme-light {
+    --h1-color: #344F40;
+    --h2-color: #40604E;
+    --h3-color: #4B6B58;
+    --h4-color: #577663;
+    --h5-color: #61816D;
+    --h6-color: #6B8B78;
+}

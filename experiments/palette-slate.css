@@ -1,0 +1,19 @@
+/* SLATE BLUE — DARK MODE */
+.theme-dark {
+    --h1-color: #A9BCCF;
+    --h2-color: #9EB3C8;
+    --h3-color: #91A8BF;
+    --h4-color: #839CB5;
+    --h5-color: #7590AA;
+    --h6-color: #69849F;
+}
+
+/* SLATE BLUE — LIGHT MODE */
+.theme-light {
+    --h1-color: #344D63;
+    --h2-color: #415D75;
+    --h3-color: #4E6B83;
+    --h4-color: #58768D;
+    --h5-color: #627F95;
+    --h6-color: #6B879A;
+}

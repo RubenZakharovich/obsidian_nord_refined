@@ -1,0 +1,19 @@
+/* STEEL — DARK MODE */
+.theme-dark {
+    --h1-color: #C4CDD5;
+    --h2-color: #B5C0C9;
+    --h3-color: #A6B2BD;
+    --h4-color: #97A5B1;
+    --h5-color: #8898A5;
+    --h6-color: #798B99;
+}
+
+/* STEEL — LIGHT MODE */
+.theme-light {
+    --h1-color: #3B4954;
+    --h2-color: #465560;
+    --h3-color: #52616D;
+    --h4-color: #5D6D79;
+    --h5-color: #687885;
+    --h6-color: #738391;
+}

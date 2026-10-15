@@ -523,3 +523,31 @@ pre[class*="language-"]
     color: var(--red);
 }
 
+/* NORD REFINED PALETTE START */
+/*
+ * NORD REFINED — CUSTOM PALETTE
+ *
+ * Dark mode: Sage
+ * Light mode: Slate Blue
+ */
+
+/* DARK MODE — SAGE */
+.theme-dark {
+    --h1-color: #BECBC1;
+    --h2-color: #AFBFB2;
+    --h3-color: #A0B4A5;
+    --h4-color: #91A896;
+    --h5-color: #829D88;
+    --h6-color: #748F7B;
+}
+
+/* LIGHT MODE — SLATE BLUE */
+.theme-light {
+    --h1-color: #344D63;
+    --h2-color: #415D75;
+    --h3-color: #4E6B83;
+    --h4-color: #58768D;
+    --h5-color: #627F95;
+    --h6-color: #6B879A;
+}
+/* NORD REFINED PALETTE END */
