@@ -1,0 +1,11 @@
+/* Nord Refined: light / warm
+ * Editor: #FAF9F6; sidebar and code: #EEEDE8; secondary surfaces and borders: #E6E4DE.
+ */
+.theme-light {
+    --background-primary: #FAF9F6;
+    --background-primary-alt: #FAF9F6;
+    --background-secondary: #EEEDE8;
+    --background-secondary-alt: #E6E4DE;
+    --background-modifier-border: #E6E4DE;
+    --code-background: #EEEDE8;
+}

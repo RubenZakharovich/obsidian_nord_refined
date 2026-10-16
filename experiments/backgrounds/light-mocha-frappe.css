@@ -1,0 +1,11 @@
+/* Nord Refined: light / mocha-frappe
+ * Editor: #F5EFE6; sidebar and code: #E9DFD2; secondary surfaces: #DDD0C1; border: #CEBEAD.
+ */
+.theme-light {
+    --background-primary: #F5EFE6;
+    --background-primary-alt: #F5EFE6;
+    --background-secondary: #E9DFD2;
+    --background-secondary-alt: #DDD0C1;
+    --background-modifier-border: #CEBEAD;
+    --code-background: #E9DFD2;
+}

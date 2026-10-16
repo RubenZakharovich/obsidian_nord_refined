@@ -1,0 +1,11 @@
+/* Nord Refined: dark / softer
+ * Editor: #343B48; sidebar and code: #414959; secondary surfaces and borders: #495365.
+ */
+.theme-dark {
+    --background-primary: #343B48;
+    --background-primary-alt: #343B48;
+    --background-secondary: #414959;
+    --background-secondary-alt: #495365;
+    --background-modifier-border: #495365;
+    --code-background: #414959;
+}

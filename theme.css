@@ -551,3 +551,32 @@ pre[class*="language-"]
     --h6-color: #6B879A;
 }
 /* NORD REFINED PALETTE END */
+
+
+/* NORD REFINED BACKGROUND DARK START */
+/* Nord Refined: dark / deeper
+ * Editor: #292F3A; sidebar and code: #353C4B; secondary surfaces and borders: #3E4758.
+ */
+.theme-dark {
+    --background-primary: #292F3A;
+    --background-primary-alt: #292F3A;
+    --background-secondary: #353C4B;
+    --background-secondary-alt: #3E4758;
+    --background-modifier-border: #3E4758;
+    --code-background: #353C4B;
+}
+/* NORD REFINED BACKGROUND DARK END */
+
+/* NORD REFINED BACKGROUND LIGHT START */
+/* Nord Refined: light / vanilla-latte
+ * Editor: #FBF7EF; sidebar and code: #F0E8DB; secondary surfaces: #E6DAC9; border: #D9CBB8.
+ */
+.theme-light {
+    --background-primary: #FBF7EF;
+    --background-primary-alt: #FBF7EF;
+    --background-secondary: #F0E8DB;
+    --background-secondary-alt: #E6DAC9;
+    --background-modifier-border: #D9CBB8;
+    --code-background: #F0E8DB;
+}
+/* NORD REFINED BACKGROUND LIGHT END */

@@ -1,0 +1,11 @@
+/* Nord Refined: light / vanilla-latte
+ * Editor: #FBF7EF; sidebar and code: #F0E8DB; secondary surfaces: #E6DAC9; border: #D9CBB8.
+ */
+.theme-light {
+    --background-primary: #FBF7EF;
+    --background-primary-alt: #FBF7EF;
+    --background-secondary: #F0E8DB;
+    --background-secondary-alt: #E6DAC9;
+    --background-modifier-border: #D9CBB8;
+    --code-background: #F0E8DB;
+}

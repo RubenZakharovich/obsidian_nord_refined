@@ -1,0 +1,11 @@
+/* Nord Refined: light / oat-milk
+ * Editor: #F8F6F1; sidebar and code: #EEEAE2; secondary surfaces: #E5DFD5; border: #D8D0C5.
+ */
+.theme-light {
+    --background-primary: #F8F6F1;
+    --background-primary-alt: #F8F6F1;
+    --background-secondary: #EEEAE2;
+    --background-secondary-alt: #E5DFD5;
+    --background-modifier-border: #D8D0C5;
+    --code-background: #EEEAE2;
+}
